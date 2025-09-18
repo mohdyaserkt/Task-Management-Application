@@ -1,4 +1,9 @@
 # Task Management Application
+A full-stack task management application with user authentication, task CRUD operations, and import/export functionality.
+## 🎥 Demo Video
+[![Watch the video](assets/tst1.png)](https://drive.google.com/file/d/1yCzr-TBrHOgTPmQVGeuKlqUQSifUu25L/view?usp=sharing)
+
+
 
 ## Quick Setup
 
