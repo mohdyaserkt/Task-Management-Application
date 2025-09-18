@@ -2,7 +2,7 @@ const cookieOptions = {
   httpOnly: process.env.COOKIE_HTTP_ONLY === 'true',
   secure: process.env.COOKIE_SECURE === 'true',
   sameSite: process.env.COOKIE_SAME_SITE || 'lax',
-  domain: process.env.COOKIE_DOMAIN || 'localhost',
+  // domain: process.env.COOKIE_DOMAIN || 'localhost',
   path: '/'
 };
 
